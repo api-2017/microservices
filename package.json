@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Karl Stolley",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "4.2.1"
+  }
 }
