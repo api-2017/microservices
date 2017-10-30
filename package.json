@@ -1,5 +1,5 @@
 {
-  "name": "Microservice Demo",
+  "name": "microservices",
   "version": "0.0.1",
   "description": "Demo for COM 333 from Chapter 4 of Node.js 8 the Right Way",
   "main": "index.js",
